@@ -1,0 +1,9 @@
+可以通过webpack集合babel-loader将es8的语法转成es5的语法。
+
+需要安装如下几个：
+	webpack
+	webpack-dev-server
+	babel-core
+	babel-loader
+	babel-preset-es2015
+	babel-preset-stage-2
